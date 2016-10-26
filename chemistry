@@ -1,8 +1,8 @@
-atom = carbon
+atom = 'carbon'
 print(atom)
-atom1 = oxygen
+atom1 = 'oxygen'
 print(atom1)
-atom2 = hydrogen
+atom2 = 'hydrogen'
 print(atom2)
-atom3 = nitrogen
+atom3 = 'nitrogen'
 print(atom3)
